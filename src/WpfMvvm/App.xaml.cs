@@ -37,7 +37,7 @@
             //WpfMvvmApplication.Current.Container.Get<IMessageboxService>().ShowMessagebox("This is a demo version!!! Mind blow :D", DemoAlertMsg, "Demo alert");
 
             // Mocking player data for test
-            var playerModel = new PlayerModel("Giang NGUYEN", 29, "MF", "Futsal MUSVN", "I am Giang NGUYEN! Im a RED ^^", "giang-nguyen");
+            var playerModel = new PlayerModel("Giang NGUYEN", 30, "MF", "Futsal MUSVN", "I am Giang NGUYEN! Im a RED ^^", "giang-nguyen");
             var tmpImg = String.Format("/Images/{0}.jpg", playerModel.Image);
             playerModel.Image = tmpImg.ToString();
 
