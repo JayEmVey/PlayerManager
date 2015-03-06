@@ -70,3 +70,42 @@
 \\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.csprojResolveAssemblyReference.cache
 \\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.baml
 \\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.exe.config
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.exe
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.exe
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.dll
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.pdb
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.xml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.csprojResolveAssemblyReference.cache
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\ClubView.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerEdit.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\App.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.cache
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.lref
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\ClubView.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerEdit.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\Windows\MainWindow.baml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.g.resources
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.Properties.Resources.resources
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.csproj.GenerateResource.Cache

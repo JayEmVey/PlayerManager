@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\obj\Debug\
 WpfMvvm
 none
 false
 DEBUG;TRACE
-\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\App.xaml
+C:\Users\Giang\Source\Repos\PlayerManager\src\WpfMvvm\App.xaml
 6-1201067487
 
-301030125106
-16937481775
+30-1290693152
+16-911753602
 UserControls\PlayerDetailUserControl.xaml;Windows\AlternativeWindow.xaml;Windows\ClubView.xaml;Windows\PlayerEdit.xaml;Windows\PlayerDetail.xaml;Windows\MainWindow.xaml;
 
-False
+True
 
