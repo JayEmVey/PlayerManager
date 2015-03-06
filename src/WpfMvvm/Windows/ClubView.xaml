@@ -1,0 +1,52 @@
+﻿<wv:WindowView x:Class="WpfMvvm.Windows.ClubView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wv="clr-namespace:WpfMvvm.Windows"
+        Title="Player Manager" Height="434" Width="695">
+    <Grid>
+        <ListView Name="ListViewClubPlayers" ItemsSource="{Binding ClubPlayers}" SelectedItem="{Binding SelectedPlayer}" HorizontalAlignment="Left" Height="246" Margin="11,107,0,0" VerticalAlignment="Top" Width="269">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding PlayerName}" FontSize="12" FontWeight="Bold"/>
+                        <TabPanel>
+                            <Label Content="Age: " FontSize="10"/>
+                            <Label Content="{Binding PlayerAge}" FontSize="10" />
+                            <Label Content="Position: " FontSize="10"/>
+                            <Label Content="{Binding Position}" FontSize="10" />
+                        </TabPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ComboBox Name="cboClub" ItemsSource="{Binding Clubs}"  SelectedItem="{Binding SelectedClub}" HorizontalAlignment="Left" Height="37" Margin="11,65,0,0" VerticalAlignment="Top" Width="186">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding ClubName}" FontSize="12" FontWeight="Bold"/>
+                        <TabPanel>
+                            <Label Content="Short name: " FontSize="10"/>
+                            <Label Content="{Binding ShortName}" FontSize="10"/>
+                            <Label Content="Number of players: " FontSize="10"/>
+                            <Label Content="{Binding TotalPlayers}" FontSize="10"/>
+                        </TabPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Content="Select club" HorizontalAlignment="Left" Height="23" Margin="11,37,0,0" VerticalAlignment="Top" Width="155"/>
+        <Label Content="Player Manager" HorizontalAlignment="Left" Margin="241,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="GungsuhChe" FontSize="20"/>
+        <Button CommandParameter="{Binding ElementName=ListViewClubPlayers, Path=SelectedPlayer}" Command="{Binding DisplayPlayerCommand}" Content="Player info" HorizontalAlignment="Left" Height="35" Margin="10,358,0,0" VerticalAlignment="Top" Width="270"/>
+        <Button CommandParameter="{Binding ElementName=cboClub, Path=SelectedClub}" Command="{Binding DisplayClubCommand}" Content="Show players" HorizontalAlignment="Left" Margin="202,65,0,0" VerticalAlignment="Top" Width="78" Height="37"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="322,107,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="322,133,0,0" TextWrapping="Wrap" Text="{Binding SelectedPlayer.PlayerName}" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="322,161,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="322,192,0,0" TextWrapping="Wrap" Text="{Binding SelectedPlayer.PlayerAge}" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Position" HorizontalAlignment="Left" Margin="322,220,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="322,251,0,0" TextWrapping="Wrap" Text="{Binding SelectedPlayer.Position, Mode=TwoWay}" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Club" HorizontalAlignment="Left" Margin="322,279,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.605,-0.231"/>
+        <Button CommandParameter="{Binding ElementName=ClubWindow}" Command="{Binding CloseCommand}" Content="Close" HorizontalAlignment="Left" Margin="592,358,0,0" VerticalAlignment="Top" Width="75" Height="35"/>
+        <Image Source="{Binding SelectedPlayer.Image}" HorizontalAlignment="Left" Height="195" Margin="510,133,0,0" VerticalAlignment="Top" Width="157"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="322,305,0,0" TextWrapping="Wrap" Text="{Binding SelectedPlayer.ClubName}" VerticalAlignment="Top" Width="160"/>
+    </Grid>
+</wv:WindowView>

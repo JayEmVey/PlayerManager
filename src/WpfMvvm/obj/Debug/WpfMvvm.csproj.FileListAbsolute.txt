@@ -1,0 +1,72 @@
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\WpfMvvm.exe.config
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Ninject.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Ninject.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\Ninject.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.g.cs
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\MainWindow.g.cs
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.cache
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.lref
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.baml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\MainWindow.baml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.g.resources
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.Properties.Resources.resources
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.g.cs
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.exe.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\Ninject.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\bin\Debug\System.Windows.Interactivity.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\MainWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\AlternativeWindow.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerDetail.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\MainWindow.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.g.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\ClubView.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\ClubView.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerEdit.g.cs
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\Windows\PlayerEdit.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\WpfMvvm.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.baml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvm\obj\Debug\UserControls\PlayerDetailUserControl.g.cs

@@ -1,0 +1,44 @@
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.dll.config
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Ninject.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Ninject.pdb
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\Ninject.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\bin\Debug\System.Windows.Interactivity.xml
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.dll
+\\vmware-host\Shared Folders\infonam On My Mac\practices\WPF-MVVM\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.dll.config
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\WpfMvvmSampleTests.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Ninject.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\System.Windows.Interactivity.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\WpfMvvm.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\WpfMvvm.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Ninject.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\Ninject.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\bin\Debug\System.Windows.Interactivity.xml
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\PlayerManager\src\WpfMvvmSampleTests\obj\Debug\WpfMvvmSampleTests.pdb

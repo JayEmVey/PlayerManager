@@ -1,0 +1,24 @@
+﻿<wv:WindowView x:Class="WpfMvvm.Windows.PlayerEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wv="clr-namespace:WpfMvvm.Windows"
+        Height="477.179"
+        Width="531.179"
+        Title="Player information">
+    <Grid Margin="5">
+        <Button Content="Update" Command="{Binding UpdatePlayerCommand}" HorizontalAlignment="Left" Margin="343,406,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Player Bio" HorizontalAlignment="Left" Margin="31,261,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="31,45,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding PlayerName}" HorizontalAlignment="Left" Margin="34,76,0,0" VerticalAlignment="Top" Width="195"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="31,99,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding PlayerAge}" HorizontalAlignment="Left" Margin="34,130,0,0" VerticalAlignment="Top" Width="195"/>
+        <Label Content="Position" HorizontalAlignment="Left" Margin="31,153,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding PlayerPosition}" HorizontalAlignment="Left" Margin="34,184,0,0" VerticalAlignment="Top" Width="195"/>
+        <Label Content="Edit player information" HorizontalAlignment="Left" Margin="182,10,0,0" VerticalAlignment="Top" Width="143"/>
+        <Label Content="Club" HorizontalAlignment="Left" Margin="31,207,0,0" VerticalAlignment="Top"/>
+        <TextBox Text="{Binding ClubName}" HorizontalAlignment="Left" Height="23" Margin="34,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <Image Source="{Binding PlayerImage}" HorizontalAlignment="Left" Height="211" Margin="294,76,0,0" VerticalAlignment="Top" Width="209"/>
+        <Button Content="Close" Command="{Binding CloseWindowCommand}" HorizontalAlignment="Left" Margin="428,406,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox Text="{Binding PlayerMessage}" HorizontalAlignment="Left" Height="99" Margin="34,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" AllowDrop="True"/>
+    </Grid>
+</wv:WindowView>

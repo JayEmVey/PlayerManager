@@ -1,0 +1,31 @@
+﻿<wv:WindowView x:Class="WpfMvvm.Windows.PlayerDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wv="clr-namespace:WpfMvvm.Windows"
+        Height="461.298"
+        Width="574.985"
+        Title="Player information"
+        xmlns:userControls="clr-namespace:WpfMvvm.UserControls"
+        >
+    <Grid Margin="5">
+
+        <userControls:PlayerDetailUserControl DataContext="{Binding SelectedPlayer}"></userControls:PlayerDetailUserControl>
+
+
+        <Button Content="Close" Command="{Binding CloseWindowCommand}" HorizontalAlignment="Left" Margin="450,390,0,0" VerticalAlignment="Top" Width="75"/>
+        <!--
+        <Label Content="Player Bio" HorizontalAlignment="Left" Margin="34,255,0,0" VerticalAlignment="Top"/>
+        <Label Content="Player" HorizontalAlignment="Left" Margin="34,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding PlayerName}" HorizontalAlignment="Left" Margin="34,57,0,0" VerticalAlignment="Top"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="34,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding PlayerAge}" HorizontalAlignment="Left" Margin="34,125,0,0" VerticalAlignment="Top"/>
+        <Label Content="Club" HorizontalAlignment="Left" Margin="34,168,0,0" VerticalAlignment="Top"/>
+        <Label Content="{Binding ClubName}" HorizontalAlignment="Left" Margin="34,199,0,0" VerticalAlignment="Top"/>
+        <Image Source="{Binding PlayerImage}" HorizontalAlignment="Left" Height="246" Margin="314,57,0,0" VerticalAlignment="Top" Width="245"/>-->
+
+
+
+
+        <Button Command="{Binding EditWindowCommand}" Content="Edit" HorizontalAlignment="Left" Margin="370,390,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</wv:WindowView>
